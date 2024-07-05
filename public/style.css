@@ -1,0 +1,58 @@
+.container .navbar-brand span{
+    color: rgb(233, 233, 226);
+}
+    
+.bg-coklat{
+    background-color:rgb(66, 65, 70);
+}
+   
+
+.hero{
+    min-height: 100vh;
+    background-image: url(images/ayam.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+.hero .content{
+    padding: 0 9%;
+}
+
+.hero .content h1{
+    color:rgb(241, 113, 8);
+    font-size: 3rem;
+    text-shadow:rgb(233, 233, 23);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.hero .content p{
+    color: bisque;
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.hero .content .btn{
+    background-color: rgb(52, 233, 16);
+    font-size: 1,5rm;
+    font-weight: bold;
+padding: 0,rem 1,8rem;
+}
+
+.hero .content .btn:hover{
+    background-color: rgb(41, 224, 224);
+    color: brown;
+}
+
+.about p{
+    font-size: 1,3rem;
+    line-height: 2,1rem;
+    color:rgb(22, 22, 20);
+    text-align: justify;
+    text-indent: 3ram;
+}
+
+
+
